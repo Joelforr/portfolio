@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e15487f66e278609c1ce",
-    "url": "/static/css/main.63b5fc55.chunk.css"
+    "revision": "ba7df1f719c4442944b0",
+    "url": "/static/css/main.e998a7c4.chunk.css"
   },
   {
-    "revision": "e15487f66e278609c1ce",
-    "url": "/static/js/main.e15487f6.chunk.js"
+    "revision": "ba7df1f719c4442944b0",
+    "url": "/static/js/main.ba7df1f7.chunk.js"
   },
   {
-    "revision": "12461019f42f6cac0319",
-    "url": "/static/css/1.b697cd24.chunk.css"
+    "revision": "c0f339ced37b119015be",
+    "url": "/static/css/1.75816a4a.chunk.css"
   },
   {
-    "revision": "12461019f42f6cac0319",
-    "url": "/static/js/1.12461019.chunk.js"
+    "revision": "c0f339ced37b119015be",
+    "url": "/static/js/1.c0f339ce.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/skull-gem_1.81ac553c.png"
   },
   {
-    "revision": "1364b138f7877e841b525c39851cf41c",
+    "revision": "8527330f45e1ec1553bcb9cd52360152",
     "url": "/index.html"
   }
 ];
